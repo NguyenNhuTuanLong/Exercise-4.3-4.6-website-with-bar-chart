@@ -1,0 +1,7 @@
+/* Class giúp container căn giữa và tự động điều chỉnh chiều rộng tối đa 1200px */
+.responsive-svg-container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    max-width: 1200px;
+}
